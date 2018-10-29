@@ -10,8 +10,9 @@ Academic departments at Dartmouth vary when it comes to per class median enrollm
 
 Description:
 
-      While there is a lot of variation in average grade and median class enrollment among the three department types, humanities departments tends to dominate the upper left of the graph where the departments tend to have the highest grades and lowest median. In fact, the only departments with an average median grade above an A- are humanities classes. STEM and social sciences departments tend to have lower grades and larger classes. The impact of this trend must be weighed against the size of the points or the number of classes the department offers annually. Some departments with very high grade medians offer only a few classes a year compared to others.
-      Only the departments that offer more than 25 classes per years (four trimesters) were labeled. The departments with the lowest average median are the chemistry, math, biology and economics. The departments with the highest average medians are theatre, music, studio art and Russian. Coincidentally, the economics department offers the most classes per year and has the highest median class enrollment among the departments represented. 
+While there is a lot of variation in average grade and median class enrollment among the three department types, humanities departments tends to dominate the upper left of the graph where the departments tend to have the highest grades and lowest median. In fact, the only departments with an average median grade above an A- are humanities classes. STEM and social sciences departments tend to have lower grades and larger classes. The impact of this trend must be weighed against the size of the points or the number of classes the department offers annually. Some departments with very high grade medians offer only a few classes a year compared to others.
+
+Only the departments that offer more than 25 classes per years (four trimesters) were labeled. The departments with the lowest average median are the chemistry, math, biology and economics. The departments with the highest average medians are theatre, music, studio art and Russian. Coincidentally, the economics department offers the most classes per year and has the highest median class enrollment among the departments represented. 
 
 Data Sources:
 
